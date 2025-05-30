@@ -1,1 +1,1 @@
-# cifar10_recognition
+This project is to showcase basic object recognition using cifar 10 library
